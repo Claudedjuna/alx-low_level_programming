@@ -1,4 +1,4 @@
-static_libraries
-this should be fun, I said
+Readme for static libraries
 
-but it wasn't :(
+
+
