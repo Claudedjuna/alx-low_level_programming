@@ -1,1 +1,2 @@
- Doubly linked lists
+double linked list
+the nodes the better
